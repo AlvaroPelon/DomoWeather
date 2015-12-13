@@ -1,5 +1,5 @@
 # DomoWeather
-A weather station, powered by Arduino, wich includes humdity, pressure and temperature measurement.
+A weather station, powered by Arduino, which includes humidity, pressure and temperature measurement.
 The main processor of the weather station is an Atmega328p, standalone mounted, **the used sensors are**:
 
 **Temperature measurement**: *DHT22*(-40ºC to 80ºC)
